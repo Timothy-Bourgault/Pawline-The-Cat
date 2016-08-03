@@ -1,0 +1,14 @@
+.style {
+  font-family: monospace;
+  color: green;
+}
+.grace {
+  font-weight: bolder;
+  font-stretch: condensed;
+  color: red;
+}
+.garbage {
+  font-variant: small-caps;
+  font-family: cursive;
+  color: orange;
+}
